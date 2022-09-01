@@ -1,0 +1,68 @@
+
+.back_ground
+{
+    background-color: rgb(107, 16, 36);
+}
+
+
+*{
+    box-sizing: border-box;
+
+}
+
+
+#main_heading
+{
+    text-transform: uppercase;
+}
+
+
+#box1
+{
+    height:800px;
+}
+.box
+{
+
+    background-color: rgb(187, 121, 121); 
+    margin-top:40px;
+   
+    height: 300px;
+    border: 3px solid;
+    border-color: black;
+    padding: 15px;
+
+}
+.para_setting
+{
+    color:rgb(251, 253, 253);
+text-align: justify;
+text-indent: 3px;
+overflow:auto; 
+
+}
+
+.text-center
+{
+    color :black;
+    margin-bottom: 15px;
+}
+
+.onlymobile
+{
+    border-color:black;
+    border: 3px solid;
+}
+
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text
+ {
+         text-transform: uppercase;   
+        color: rgb(245, 239, 239);
+ }
+
+.navbar-custom
+{
+    border: 2px solid black;
+}
